@@ -23,11 +23,11 @@ It does it by searching the text on Google, downloading the images then mixing t
 
 ### <p align="center">📋 Examples 📋</p>
 
-<br><br><br>
+<br><br>
 <p align="center">
 Hell
-<br><br>
-<img src="https://cdn.discordapp.com/attachments/892840615732195340/909218422980751421/unknown.png" width="500", height="500">
+<br><br><br>
+<img src="https://cdn.discordapp.com/attachments/906274480685469776/912830496554246164/font.jpg" width="500", height="500">
 </p>
 <br><br><br>
 
