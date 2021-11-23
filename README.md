@@ -27,7 +27,7 @@ It does it by searching the text on Google, downloading the images then mixing t
 <p align="center">
 Hell
 <br><br><br>
-<img src="https://cdn.discordapp.com/attachments/906274480685469776/912830496554246164/font.jpg" width="800", height="500">
+<img src="https://cdn.discordapp.com/attachments/906274480685469776/912830496554246164/font.jpg" width="800", height="450">
 </p>
 <br><br><br>
 
@@ -42,7 +42,7 @@ Hell
 <br>
 
 <p align="right">
-<img src="https://repository-images.githubusercontent.com/430785499/19c2d9aa-8567-42f3-828a-db3afee480ad" width="800", height="450">
+<img src="https://repository-images.githubusercontent.com/430785499/19c2d9aa-8567-42f3-828a-db3afee480ad" width="500", height="500">
 </p>
 
 <br>
