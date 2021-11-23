@@ -50,8 +50,6 @@ banner = r'''
 
                 
 
-
-
 class Raven:
 
     def __init__(self, text: str) -> None:
