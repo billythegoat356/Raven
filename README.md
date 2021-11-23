@@ -42,7 +42,7 @@ Hell
 <br>
 
 <p align="right">
-<img src="https://repository-images.githubusercontent.com/430785499/19c2d9aa-8567-42f3-828a-db3afee480ad" width="1920", height="1080">
+<img src="https://repository-images.githubusercontent.com/430785499/19c2d9aa-8567-42f3-828a-db3afee480ad" width="960", height="540">
 </p>
 
 <br>
