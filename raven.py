@@ -1,3 +1,5 @@
+# by billythegoat356
+
 from pystyle import Colorate, Colors, System, Center, Write, Anime
 from requests import get
 from imgsearch import pony
