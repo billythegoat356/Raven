@@ -181,7 +181,11 @@ def main():
     print(Colorate.DiagonalBackwards(Colors.purple_to_blue, Center.XCenter(ascii_art)))
     print("\n"*5)
 
-    text = Write.Input("Imagine something... -> ", Colors.purple_to_blue, interval=0.005)
+    text = Write.Input("Imagine something... -> ", Colors.purple_to_blue, interval=0.005).strip()
+    if not text:
+     Colorate.Error(f"Please enter something to imagine...")
+       return
+     
     print('\n')
     wprint(text="Starting generation...", color=Colors.blue_to_purple)
     print()
