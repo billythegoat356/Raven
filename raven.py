@@ -183,8 +183,8 @@ def main():
 
     text = Write.Input("Imagine something... -> ", Colors.purple_to_blue, interval=0.005).strip()
     if not text:
-     Colorate.Error(f"Please enter something to imagine...")
-       return
+        Colorate.Error(f"Please enter something to imagine...")
+        return
      
     print('\n')
     wprint(text="Starting generation...", color=Colors.blue_to_purple)
